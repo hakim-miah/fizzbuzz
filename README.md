@@ -18,7 +18,7 @@
     composer install
     ./vendor/bin/phpunit   
 
-## or you may need to try (Windwos/cygwin):
+## or you may need to try (Windows/Cygwin):
     ./vendor/phpunit/phpunit/phpunit
 
 # Hakim's code
